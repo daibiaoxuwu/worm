@@ -1,0 +1,57 @@
+1517121326945	geckodriver	INFO	geckodriver 0.19.1
+1517121326955	geckodriver	INFO	Listening on 127.0.0.1:54621
+1517121328115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.agHpOyQdu7n4"
+*** You are running in headless mode.
+1517121328728	Marionette	INFO	Enabled via --marionette
+1517121330082	Marionette	INFO	Listening on port 44433
+1517121330130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+1517121388472	geckodriver	INFO	geckodriver 0.19.1
+1517121388475	geckodriver	INFO	Listening on 127.0.0.1:50459
+1517121389628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.OqtFmUoKA2Sn"
+*** You are running in headless mode.
+1517121390181	Marionette	INFO	Enabled via --marionette
+1517121391454	Marionette	INFO	Listening on port 44819
+1517121391547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+1517121485592	geckodriver	INFO	geckodriver 0.19.1
+1517121485596	geckodriver	INFO	Listening on 127.0.0.1:49339
+1517121486746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.7IdKpz0xgbgS"
+*** You are running in headless mode.
+1517121487277	Marionette	INFO	Enabled via --marionette
+1517121488492	Marionette	INFO	Listening on port 41599
+1517121488559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27408, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517121588779	geckodriver	INFO	geckodriver 0.19.1
+1517121588782	geckodriver	INFO	Listening on 127.0.0.1:47247
+1517121589935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.JTJm4UeYYQ1v"
+*** You are running in headless mode.
+1517121590472	Marionette	INFO	Enabled via --marionette
+1517121591712	Marionette	INFO	Listening on port 35359
+1517121591744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x490017,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 26827, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down

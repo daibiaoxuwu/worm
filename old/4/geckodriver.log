@@ -1,0 +1,367 @@
+1516880415068	geckodriver	INFO	geckodriver 0.19.1
+1516880415071	geckodriver	INFO	Listening on 127.0.0.1:51757
+1516880416296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.EehNyTL3rRia"
+*** You are running in headless mode.
+1516880416996	Marionette	INFO	Enabled via --marionette
+1516880418793	Marionette	INFO	Listening on port 35283
+1516880418818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516886978939	geckodriver	INFO	geckodriver 0.19.1
+1516886978948	geckodriver	INFO	Listening on 127.0.0.1:55629
+1516886980204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ngXogVYaz68o"
+*** You are running in headless mode.
+1516887044429	geckodriver	INFO	geckodriver 0.19.1
+1516887044437	geckodriver	INFO	Listening on 127.0.0.1:43867
+1516887045650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ha1MyJdbmTlW"
+*** You are running in headless mode.
+1516887053169	Marionette	INFO	Enabled via --marionette
+1516887065613	Marionette	INFO	Listening on port 34363
+1516887069845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+1516887124484	geckodriver	INFO	geckodriver 0.19.1
+1516887124489	geckodriver	INFO	Listening on 127.0.0.1:57853
+1516887159992	geckodriver	INFO	geckodriver 0.19.1
+1516887160000	geckodriver	INFO	Listening on 127.0.0.1:54987
+1516887161258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.enQkwfYQ4Wyc"
+*** You are running in headless mode.
+1516887164316	Marionette	INFO	Enabled via --marionette
+1516887172613	Marionette	INFO	Listening on port 38781
+1516887172961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516887471172	geckodriver	INFO	geckodriver 0.19.1
+1516887471200	geckodriver	INFO	Listening on 127.0.0.1:41069
+1516887472518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.iFVzDhx1qJ4O"
+*** You are running in headless mode.
+1516887477754	Marionette	INFO	Enabled via --marionette
+1516887485090	Marionette	INFO	Listening on port 42301
+1516887486469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+1516899211158	geckodriver	INFO	geckodriver 0.19.1
+1516899211161	geckodriver	INFO	Listening on 127.0.0.1:43399
+1516899212314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.iatqpyaTJhAQ"
+*** You are running in headless mode.
+1516899212840	Marionette	INFO	Enabled via --marionette
+1516899213991	Marionette	INFO	Listening on port 38035
+1516899214022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516899248899	geckodriver	INFO	geckodriver 0.19.1
+1516899248902	geckodriver	INFO	Listening on 127.0.0.1:36075
+1516899250024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Z8rszbXdtqok"
+*** You are running in headless mode.
+1516899250540	Marionette	INFO	Enabled via --marionette
+1516899251728	Marionette	INFO	Listening on port 44083
+1516899251741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516900597355	geckodriver	INFO	geckodriver 0.19.1
+1516900597358	geckodriver	INFO	Listening on 127.0.0.1:35625
+1516900598485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.hkj6bW4ycNrv"
+*** You are running in headless mode.
+1516900598991	Marionette	INFO	Enabled via --marionette
+1516900600201	Marionette	INFO	Listening on port 37527
+1516900600312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: http://onlinelibrarystatic.wiley.com/js/wol.libs.js, line 1116: unreachable code after return statement
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 23: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/px2/client.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1516908044972	geckodriver	INFO	geckodriver 0.19.1
+1516908044977	geckodriver	INFO	Listening on 127.0.0.1:55075
+1516908046134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Y9SEbkrABQaV"
+*** You are running in headless mode.
+1516908046791	Marionette	INFO	Enabled via --marionette
+1516908048530	Marionette	INFO	Listening on port 43813
+1516908048553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516908441171	geckodriver	INFO	geckodriver 0.19.1
+1516908441175	geckodriver	INFO	Listening on 127.0.0.1:49375
+1516908442325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.AD1TT0fT9qdy"
+*** You are running in headless mode.
+1516908442905	Marionette	INFO	Enabled via --marionette
+1516908460976	geckodriver	INFO	geckodriver 0.19.1
+1516908460979	geckodriver	INFO	Listening on 127.0.0.1:38957
+1516908462322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.KVvwWsF7mcyt"
+*** You are running in headless mode.
+1516908462995	Marionette	INFO	Enabled via --marionette
+1516908464670	Marionette	INFO	Listening on port 36839
+1516908464743	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5886, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516908638470	geckodriver	INFO	geckodriver 0.19.1
+1516908638473	geckodriver	INFO	Listening on 127.0.0.1:44157
+1516908639770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.KNp8pahPTqWT"
+*** You are running in headless mode.
+1516908640598	Marionette	INFO	Enabled via --marionette
+1516908641967	Marionette	INFO	Listening on port 44171
+1516908641986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516908668277	geckodriver	INFO	geckodriver 0.19.1
+1516908668280	geckodriver	INFO	Listening on 127.0.0.1:50131
+1516908669443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.e5YSYi4ya6TN"
+*** You are running in headless mode.
+1516908670034	Marionette	INFO	Enabled via --marionette
+1516908671292	Marionette	INFO	Listening on port 36847
+1516908671355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516908949616	geckodriver	INFO	geckodriver 0.19.1
+1516908949622	geckodriver	INFO	Listening on 127.0.0.1:41853
+1516908950955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.FUNBZdTufCiD"
+*** You are running in headless mode.
+1516908951619	Marionette	INFO	Enabled via --marionette
+1516908952995	Marionette	INFO	Listening on port 44167
+1516908953068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6301, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6247, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6499, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6448, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7131, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7083, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909317250	geckodriver	INFO	geckodriver 0.19.1
+1516909317254	geckodriver	INFO	Listening on 127.0.0.1:40503
+1516909318440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.eMcWqYar44zb"
+*** You are running in headless mode.
+1516909319055	Marionette	INFO	Enabled via --marionette
+1516909320567	Marionette	INFO	Listening on port 40669
+1516909320649	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8743, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909332322	geckodriver	INFO	geckodriver 0.19.1
+1516909332328	geckodriver	INFO	Listening on 127.0.0.1:58059
+1516909333470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.BpA8jYDmiyfC"
+*** You are running in headless mode.
+1516909334127	Marionette	INFO	Enabled via --marionette
+1516909335400	Marionette	INFO	Listening on port 43511
+1516909335499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.onlinelibrarystatic.wiley.com/js/jquery/jquery-1.4.2.js, line 1116: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8925, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909380593	geckodriver	INFO	geckodriver 0.19.1
+1516909380596	geckodriver	INFO	Listening on 127.0.0.1:54415
+1516909381812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.nbDAgbLPs3Y0"
+*** You are running in headless mode.
+1516909382839	Marionette	INFO	Enabled via --marionette
+1516909384244	Marionette	INFO	Listening on port 45029
+1516909384323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9160, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9160, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909467534	geckodriver	INFO	geckodriver 0.19.1
+1516909467538	geckodriver	INFO	Listening on 127.0.0.1:46473
+1516909468737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.CYcl7uFe9Mt2"
+*** You are running in headless mode.
+1516909469338	Marionette	INFO	Enabled via --marionette
+1516909471102	Marionette	INFO	Listening on port 38975
+1516909471165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.onlinelibrarystatic.wiley.com/js/jquery/jquery-1.4.2.js, line 1116: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9478, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909580279	geckodriver	INFO	geckodriver 0.19.1
+1516909580283	geckodriver	INFO	Listening on 127.0.0.1:55637
+1516909581589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.xUKFvIg5VGrO"
+*** You are running in headless mode.
+1516909582213	Marionette	INFO	Enabled via --marionette
+1516909583824	Marionette	INFO	Listening on port 39455
+1516909583927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516909845426	geckodriver	INFO	geckodriver 0.19.1
+1516909845429	geckodriver	INFO	Listening on 127.0.0.1:59489
+1516909846810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.VnxEUuT3h9xe"
+*** You are running in headless mode.
+1516909847719	Marionette	INFO	Enabled via --marionette
+1516909849165	Marionette	INFO	Listening on port 42535
+1516909849224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10757, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10707, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516909906062	geckodriver	INFO	geckodriver 0.19.1
+1516909906065	geckodriver	INFO	Listening on 127.0.0.1:53099
+1516909907229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.yRpVulJTYMQt"
+*** You are running in headless mode.
+1516909907924	Marionette	INFO	Enabled via --marionette
+1516909909442	Marionette	INFO	Listening on port 43057
+1516909909550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516909982710	geckodriver	INFO	geckodriver 0.19.1
+1516909982715	geckodriver	INFO	Listening on 127.0.0.1:42061
+1516909984047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.47j5IqMe0JRX"
+*** You are running in headless mode.
+1516909985017	Marionette	INFO	Enabled via --marionette
+1516909986635	Marionette	INFO	Listening on port 36755
+1516909986668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516910105144	geckodriver	INFO	geckodriver 0.19.1
+1516910105149	geckodriver	INFO	Listening on 127.0.0.1:56121
+1516910106478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.gglITTJlFz7c"
+*** You are running in headless mode.
+1516910107247	Marionette	INFO	Enabled via --marionette
+1516910108627	Marionette	INFO	Listening on port 38167
+1516910108691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11748, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1516910226304	geckodriver	INFO	geckodriver 0.19.1
+1516910226308	geckodriver	INFO	Listening on 127.0.0.1:52909
+1516910227641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.dQrzwQuesqGh"
+*** You are running in headless mode.
+1516910228390	Marionette	INFO	Enabled via --marionette
+1516910230065	Marionette	INFO	Listening on port 38175
+1516910230192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12062, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516910456827	geckodriver	INFO	geckodriver 0.19.1
+1516910456831	geckodriver	INFO	Listening on 127.0.0.1:32817
+1516910458075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.TFIWhtIT8fXb"
+*** You are running in headless mode.
+1516910458799	Marionette	INFO	Enabled via --marionette
+1516910460341	Marionette	INFO	Listening on port 40909
+1516910460390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516910563071	geckodriver	INFO	geckodriver 0.19.1
+1516910563074	geckodriver	INFO	Listening on 127.0.0.1:46207
+1516910564237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.QcPuUO1BAs8P"
+*** You are running in headless mode.
+1516910564880	Marionette	INFO	Enabled via --marionette
+1516910566252	Marionette	INFO	Listening on port 38347
+1516910566385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516910660498	geckodriver	INFO	geckodriver 0.19.1
+1516910660503	geckodriver	INFO	Listening on 127.0.0.1:34949
+1516910661839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.8moAH1Enscp7"
+*** You are running in headless mode.
+1516910662527	Marionette	INFO	Enabled via --marionette
+1516910664381	Marionette	INFO	Listening on port 46407
+1516910664465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13088, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12811, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516910701874	geckodriver	INFO	geckodriver 0.19.1
+1516910701878	geckodriver	INFO	Listening on 127.0.0.1:56109
+1516910703073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.M5YIPY7E1bR4"
+*** You are running in headless mode.
+1516910703720	Marionette	INFO	Enabled via --marionette
+1516910704921	Marionette	INFO	Listening on port 33655
+1516910705003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13329, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516910738754	geckodriver	INFO	geckodriver 0.19.1
+1516910738759	geckodriver	INFO	Listening on 127.0.0.1:58745
+1516910739933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.dgpIB6YE2EZT"
+*** You are running in headless mode.
+1516910740631	Marionette	INFO	Enabled via --marionette
+1516910742043	Marionette	INFO	Listening on port 41657
+1516910742162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13482, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13482, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13482, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516989570472	geckodriver	INFO	geckodriver 0.19.1
+1516989570485	geckodriver	INFO	Listening on 127.0.0.1:54993
+1516989571602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.RsQmuuYj2VW0"
+*** You are running in headless mode.
+1516989572214	Marionette	INFO	Enabled via --marionette
+1516989573534	Marionette	INFO	Listening on port 39803
+1516989573640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516990004712	geckodriver	INFO	geckodriver 0.19.1
+1516990004715	geckodriver	INFO	Listening on 127.0.0.1:36669
+1516990005834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.OSRLYGd2FZyo"
+*** You are running in headless mode.
+1516990006368	Marionette	INFO	Enabled via --marionette
+1516990007511	Marionette	INFO	Listening on port 42969
+1516990007545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516990045106	geckodriver	INFO	geckodriver 0.19.1
+1516990045109	geckodriver	INFO	Listening on 127.0.0.1:45397
+1516990046230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.uK8GzwiamgIq"
+*** You are running in headless mode.
+1516990046767	Marionette	INFO	Enabled via --marionette
+1516990047940	Marionette	INFO	Listening on port 40735
+1516990048056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516990093587	geckodriver	INFO	geckodriver 0.19.1
+1516990093590	geckodriver	INFO	Listening on 127.0.0.1:58913
+1516990094720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.4zpfepcWvBIi"
+*** You are running in headless mode.
+1516990095253	Marionette	INFO	Enabled via --marionette
+1516990096447	Marionette	INFO	Listening on port 32811
+1516990096555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1516990176785	geckodriver	INFO	geckodriver 0.19.1
+1516990176789	geckodriver	INFO	Listening on 127.0.0.1:59767
+1516990178198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.q0DHrAdap4ZH"
+*** You are running in headless mode.
+1516990178792	Marionette	INFO	Enabled via --marionette
+1516990180135	Marionette	INFO	Listening on port 39413
+1516990180212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://niche.workopolis.com/common/js/jquery/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6226, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6226, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6226, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6068, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6017, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6017, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

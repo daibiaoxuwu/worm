@@ -1,0 +1,78 @@
+完成了十个爬虫的创作.
+在本机上保存的爬虫
+
+chemistry列表:
+1   Accounts of Chemical Research
+2   Angewandte Chemie		
+3   Bulletin of the Chemical Society of Japan
+4   Canadian Journal of Chemistry
+5   Chemical Communications               
+6   Chemical Reviews
+7   Chemistry - A European Journal
+8   Chemistry Letters
+9   Helvetica Chimica Acta
+0   Journal of the American Chemical Society
+现在:
+1   Accounts of Chemical Research
+2   Angewandte Chemie		
+3   Bulletin of the Chemical Society of Japan
+在本机上
+4   Canadian Journal of Chemistry         
+6   Chemical Reviews
+7   Chemistry - A European Journal
+8   Chemistry Letters
+9   Helvetica Chimica Acta
+0   Journal of the American Chemical Society
+在win上
+5   Chemical Communications  
+等待回去在win上工作.
+
+ecology列表:
+工作路径:workspace/worm/ecology/w/
+后面的工作应该分布式爬取.因为
+1    Advances in Ecological Research爬下来,写好爬虫了,解析完成 很少 也不是很完整 考虑走官网重做
+sciencedirect和elsevier都有.选择了sciencedirect.
+2    Annual Review of Ecology, Evolution, and Systematics爬下来了,解析完成,看起来非常完整
+3    Ecology抓是3rr抓的 按链接解析是w32哦 标题解析用了w3 因为还没爬全所以w32只用了articles一个标签就漏掉了很多东西
+4    Ecology Letters直接用了wiley的程序.里边杂项多,用的添加到allowedgroup.爬完了,还没有检查.[作者名忘记改了!][叫做Ecology_Letters.py]
+5    Journal of Ecology是besjournals的,用3,爬完了,很干净.
+6    Journal of Soil and Water Conservation大概只有官网了.爬虫用6rr.好像没有权限.
+7    Trends in Ecology & Evolution这个也在sciencedirect上 爬下来了,带了year派上了用场.解析完了,少很多东西,几乎没有url,而且栏目也没有分出来,比如名家谈话这些作者在前面的也没有作者,挺多的.考虑重做.
+还没有开始工作.
+注意w1和w7都是sciencedirect的,w2是自己官网的(http://www.annualreviews.org)
+
+我们发现很多都没有做author和pages的修正,把它加到了check函数里边.
+
+
+4 eol:可能要重新筛选
+('GTNEW', u'Ideas and Perspective', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2018.21.issue-2/issuetoc')
+('GTNEW', u'Review and Synthesi', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2018.21.issue-1/issuetoc')
+('GTNEW', u'Idea and Perspective', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2017.20.issue-10/issuetoc')
+('GTNEW', u'Review and Synthese', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2017.20.issue-4/issuetoc')
+('GTNEW', u'Reviews and Synthese', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2017.20.issue-2/issuetoc')
+('GTNEW', u'Response', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2016.19.issue-7/issuetoc')
+('GTNEW', u'Reviews and Synthesi', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2015.18.issue-10/issuetoc')
+('GTNEW', u'Ideas and perspective', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2015.18.issue-6/issuetoc')
+('GTNEW', u'Guest Editorial', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2013.16.issue-12/issuetoc')
+('GTNEW', u'Ecological Effects of Environmental Change. Special Issue Editors: Marcel Holyoak and Michael Hochberg. Centre National de la Recherche Scientifique (CNRS) and Wiley have published this supplement without financial support', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2013.16.issue-s1/issuetoc')
+('GTNEW', u'Online Only article', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2010.13.issue-12/issuetoc')
+('GTNEW', u'List of Reviewer', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2009.12.issue-12/issuetoc')
+('GTNEW', u'Editorial Opinion', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2008.12.issue-1/issuetoc')
+checkerr:LIST OF REVIEWERS;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2008.11.issue-12/issuetoc
+('GTNEW', u'Keyword Index', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2008.11.issue-12/issuetoc')
+checkerr:Keyword Index;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2007.10.issue-12/issuetoc
+checkerr:Keyword index;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2006.9.issue-12/issuetoc
+('GTNEW', u'Reviews and synthese', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2006.9.issue-3/issuetoc')
+('GTNEW', u'Report', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2004.7.issue-12/issuetoc')
+GTERROR 'NoneType' object has no attribute 'text' http://onlinelibrary.wiley.com/doi/10.1111/ele.2003.6.issue-12/issuetoc
+checkerr:Author Index;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2003.6.issue-12/issuetoc
+checkerr:Erratum;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2003.6.issue-6/issuetoc
+('GTNEW', u'Idea', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2002.5.issue-6/issuetoc')
+checkerr:Author index;AUTHORSNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.2002.5.issue-6/issuetoc
+('GTNEW', u'Author index', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2001.4.issue-6/issuetoc')
+('GTNEW', u'Keyword index', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2001.4.issue-6/issuetoc')
+('GTNEW', u'Original Article', 'http://onlinelibrary.wiley.com/doi/10.1111/ele.2000.3.issue-1/issuetoc')
+checkerr:Below-ground herbivory promotes soil nutrient transfer and root growth in grassland;URLNONE;http://onlinelibrary.wiley.com/doi/10.1111/ele.1999.2.issue-6/issuetoc
+FINISHED AT http://onlinelibrary.wiley.com/doi/10.1111/ele.1998.1.issue-1/issuetoc
+在5里边加入了筛子,现在在同时筛组名和标题,这个可能要改.可以用w32做实验.
+

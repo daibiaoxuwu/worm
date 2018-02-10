@@ -1,0 +1,79 @@
+这里是从ecology复制的.不要用r和m词,转用t读和n写.
+第一个是wiley的,在win电脑上现在有最新版.在它的physics下的wiley文件夹里.
+爬完了,存在了win里.
+以后的版本都要保存一下组名再继续筛选.
+Raw数据库用Raw(大写)的p1 p2什么的
+
+不对,是第一个发现官网多一些于是去那边爬了,因为wiley只有很老的一点,
+第一个爬到了,用的文件是1p.py.有的页面过大,大于16793598的话就会报错,
+里边写了特判.那些地方用空代替了,到时候现下载.
+但是那个期刊有六个部分,只爬了第一个.
+另,那个好像只要爬A,B.
+wiley上倒是有ab不过暂时上不去.
+先写别的.
+问题是它第一个给爬到p2去了!还不敢删!
+
+第二个的话官网比较迷.
+
+先爬第三个
+
+
+1   Acta Crystallographica – parts A, B
+wiley文件夹下的同名_A_B两个文件.已重写.在爬.B爬完了.A也应该成功结束了吧...嗯应该是.4和1A搞混了数据库疏到一块去了...重新来.
+2   Advances in Physics
+3   American Journal of Physics 由3p.py爬Raw到p3聚集.之前好像爬到过p22里七百多个不过再来一次吧.解释器:p3.没有页码(只有起始码,懒得写了.)解释器的链接有一个没fill,改了,重新跑了一遍.
+4   Annalen der Physik  wiley的http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3889/issues 等找到1A 1B再说 在爬 依然在运行
+5   Applied Physics Letters 和3一样http://aip.scitation.org/toc/apl/current aip不是aapt,基础路径也要改.5p.py在爬.注意3p和5p最后的输出那应该encode一下,没写,最后会报错.成功爬完了.
+6   Journal of Physics – parts A–D, G Raw p6b:6pb.py p6a:6pa.py 剩下的先不写省点内存 另外怀疑A和C不一样...被封了.下次一定不要drop.
+a爬到http://iopscience.iop.org/issue/1751-8121/43/1,b爬到http://iopscience.iop.org/issue/0953-4075/31/1.
+解释器p6也留到以后写好啦 现在是个半成品,名字也要改的!后面加个_a
+爬的时候一定要加个大延迟!
+6pa部署
+6pb完成
+7   Nature Physics
+Raw写好了.在爬.写了延迟.顺利爬完.
+8   New Journal of Physics
+和6一样的iop的.但是好像第一页就啥也没有搞下来.6估计也是吧.不稳定.爬完了.除了第一个都挺大的.解释器:p8.如果年份找不到有可能要跳过整个页面(损失不大,页面应该是因为坏了).完成.
+9   Physical Review – parts A–E and Physical Review Letters
+注意要从官网上走!一大把东西!
+A:9panew.py到p9anew
+Aarchive:
+B:
+
+0   Reports on Progress in Physics
+也是6那个爱封人的iop的.加了延迟.爬完了.
+
+第二阶段:
+2放弃,4 6 9在爬
+额2可以爬...http://chinesesites.library.ingentaconnect.com/content/tandf/tadp
+算了...那个连接给的论文太少了
+
+1    Acta Crystallographica – parts A, B 	无须解释
+2    Advances in Physics			放弃
+3    American Journal of Physics		p3.py完成
+4    Annalen der Physik				无须解释
+5    Applied Physics Letters
+6    Journal of Physics – parts A–D, G		仅p6a.py测试
+6A 在爬
+6B 爬完
+6C
+6D
+6G
+7    Nature Physics
+8    New Journal of Physics			p8.py完成
+9    Physical Review – parts A–E and Physical Review Letters
+9Anew       在爬
+9Aarchive
+9Bnew       在爬
+9Barchive
+9Cnew
+9Carchive
+9Dnew
+9Darchive
+9Enew
+9Earchive
+9Lnew
+9Larchive
+0    Reports on Progress in Physics
+
+注意!正则的斜杠是\d反斜杠!

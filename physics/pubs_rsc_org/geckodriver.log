@@ -1,0 +1,9 @@
+1517186931448	geckodriver	INFO	geckodriver 0.19.1
+1517186931454	geckodriver	INFO	Listening on 127.0.0.1:36875
+1517186932572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.J0IXm0R0kpNh"
+*** You are running in headless mode.
+1517186933585	Marionette	INFO	Enabled via --marionette
+1517186935043	Marionette	INFO	Listening on port 33215
+1517186935086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1517186974841	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
